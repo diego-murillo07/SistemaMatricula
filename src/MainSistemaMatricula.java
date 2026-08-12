@@ -7,7 +7,7 @@
  *
  * @author Diego
  */
-public class MainSistemaBancario {
+public class MainSistemaMatricula {
 
     /**
      * @param args the command line arguments
